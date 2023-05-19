@@ -16,6 +16,10 @@ public class Student {
         return sId;
     }
 
+    public int getPhoneNumber() {
+        return phoneNumber;
+    }
+
     public void setsId(String sId) {
         this.sId = sId;
     }
