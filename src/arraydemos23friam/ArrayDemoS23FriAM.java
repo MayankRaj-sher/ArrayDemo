@@ -25,6 +25,7 @@ public class ArrayDemoS23FriAM {
        for(int i =myLetters.length-1;i>=0;i--){
            System.out.print(myLetters[i]);
        }//end of for
+       System.out.println("Commit");
     }//end of main
     
 }//end of class
