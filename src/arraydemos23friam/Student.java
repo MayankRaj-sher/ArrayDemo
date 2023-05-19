@@ -5,6 +5,7 @@ package arraydemos23friam;
 public class Student {
     private String sId;
     private String sName;
+    private int phoneNumber;
 
     public Student(String sId, String sName) {
         this.sId = sId;
