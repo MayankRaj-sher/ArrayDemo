@@ -19,6 +19,7 @@ public class Student {
     public int getPhoneNumber() {
         return phoneNumber;
     }//Yo
+    //For pull
 
     public void setsId(String sId) {
         this.sId = sId;
